@@ -1,0 +1,27 @@
+html,
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.social-icon{
+    width:25px;
+    height:25px;
+}
+
+#social-icons{
+    padding:12.5px;
+    margin-left: auto;
+}
+
+#navbar{
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+}
+
+#nav-title{
+    /* margin-left: 37%; */
+    position:absolute;
+}
+
